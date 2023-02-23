@@ -1,8 +1,7 @@
 {
-  "name": "web-common",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "vue-first-app",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -12,19 +11,16 @@
     "core-js": "^3.6.5",
     "vue": "^3.0.0"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-eslint": "^5.0.8",
     "@vue/cli-service": "^5.0.8",
     "@vue/compiler-sfc": "^3.0.0-0",
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.32.0",
-    "eslint-plugin-vue": "^8.7.1",
     "css-loader": "^6.7.3",
     "dart-sass": "^1.25.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.7.1",
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.7.2",
     "sass-loader": "^13.2.0",
